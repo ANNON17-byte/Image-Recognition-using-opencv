@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=56f7c4&width=435&lines=Hi,+I'm+Ashmit" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&width=435&lines=Hi,+I'm+Ashmit" alt="Typing SVG" />
 ---
 
 🌐 **Socials**:
@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,react,nextjs,tailwind,gsap,threejs,numpy,pandas,unity,netlify,vercel,github,linux,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,react,nextjs,tailwind,gsap,threejs,numpy,pandas,unity,netlify,vercel,github" />
 </p>
 📊 **Github Stats**:
 ---
