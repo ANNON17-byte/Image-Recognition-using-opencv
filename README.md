@@ -24,6 +24,16 @@
 
 📊 **Github Stats**:
 
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANNON17-byte&show_icons=true&theme=dark" height="180" />
+  <img src="https://streak-stats.demolab.com?user=ANNON17-byte&theme=dark" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANNON17-byte&layout=compact&theme=dark" height="180" />
+</p>
+
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ANNON17-byte&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANNON17-byte&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
