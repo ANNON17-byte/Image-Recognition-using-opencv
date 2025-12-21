@@ -20,10 +20,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![JSX](https://img.shields.io/badge/-JSX-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 📊 **Github Stats**:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ANNON17-byte&theme=dark)](https://git.io/streak-stats)
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ANNON17-byte&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
