@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nodejs,tailwind,threejs,unity,netlify,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nodejs,tailwind,threejs,chakra,JSX,unity,netlify,vercel,github" />
 </p>
 
 📊 **Github Stats**:
